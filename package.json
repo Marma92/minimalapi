@@ -1,0 +1,11 @@
+{
+  "name": "minimalapi",
+  "version": "1.0.0",
+  "description": "une api de test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amram E.",
+  "license": "ISC"
+}
